@@ -2,13 +2,13 @@
 
 Vegetables are a vital component of a balanced diet, yet assessing their quality and understanding their health benefits can be challenging for home cooks. Poor knowledge of vegetable freshness often leads to food waste and missed opportunities for creating nutritious meals. To address these challenges, we created “VegiScan,” a smart AI-based system designed specifically for home cooks to diagnose vegetable quality and provide personalized recipe recommendations based on available ingredients. Leveraging AI technology, VegiScan identifies key parameters affecting vegetable quality and links this diagnosis to practical solutions, such as tailored recipes to maximize ingredient use. By empowering home cooks to reduce food waste and make the most of their produce, VegiScan offers an innovative solution that promotes sustainability and healthier eating habits.
 
-## Features of RempahRia APP
+## Features of VegiScan APP
 - Determine vegetables freshness predictions using camera
 - Education about the benefits of spices
 - Interesting facts about spices
 
 ## Website Link
-Click [here](https://frontend-623812248472.asia-southeast2.run.app) to download RempahRia APP.
+Click [here](https://frontend-623812248472.asia-southeast2.run.app) to download VegiScan APP.
 
 ## Built with
 
@@ -36,8 +36,10 @@ Click [here](https://frontend-623812248472.asia-southeast2.run.app) to download 
 ## Repository Branches
 
 In our project is divided into four branches:
-  - [Machine Learning](https://github.com/rifkydelta/RempahRia/tree/ML-RempahRia)
-  - [Cloud Computing](https://github.com/rifkydelta/RempahRia/tree/CC-RempahRia)
+  - [Machine Learning](https://github.com/LouisDolson/VegiScan/tree/ML-VegiScan)
+  - [Javascript Backend](https://github.com/LouisDolson/VegiScan/tree/JS-Backend)
+  - [Python Backend](https://github.com/LouisDolson/VegiScan/tree/PY-Backend)
+  - [Frontend](https://github.com/LouisDolson/VegiScan/tree/Frontend)
 
 ## Team Members – C242-PR581 
 | Member    | Student ID    | Path    | University    | LinkedIn |
