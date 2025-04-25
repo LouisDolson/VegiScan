@@ -45,7 +45,7 @@ In our project is divided into four branches:
 | Member    | Student ID    | Path    | University    | LinkedIn |
 |------------|------------|------------|------------|-------|
 | Louis Dolson    | C324B4KY2283	      | Cloud Computing   | Universitas Tanjungpura    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/louis-dolson-146b4a2a3) |
-| Hari Surya Yasim   | C324B4KY1730      | Cloud Computing     | Universitas Tanjungpura     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/harisuryayasim)   |
+| Hari Surya Yasim   | C324B4KY1730      | Cloud Computing     | Universitas Tanjungpura     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harisuryayasim/)   |
 | Nadia Putri Rahmaniar    | C120B4KX3199     | Cloud Computing   | Institut Teknologi Telkom Purwokerto     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadiaputrirah/)   |
 | Dhannyo Putta    | M776B4KY1092  | Machine Learning    | Institut Bio Scientia Internasional Indonesia   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/dhannyo-putta/in)    |
 | Muhammad Rafi Kurniansyah    | M006B4KY2993    | Machine Learning    | Universitas Brawijaya   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhrafi14/)  |
